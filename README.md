@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Passionate+about+electronic+and+Robots;Java+and+Cpp+developer;Working+on+a+game)](https://git.io/typing-svg)
 
-# My skils :
+# My skills :
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
