@@ -4,7 +4,7 @@
 
 # My skills :
 
-<table style="border:none;" align="center"><tr style="border:none;"><td valign="top" width="33%" style="border:none;">
+<table align="center"><tr><td valign="top" width="33%">
 
 ### Embedded Systems :
 <div align="center">  
