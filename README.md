@@ -6,7 +6,7 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 ### Embedded Systems :
 <div align="center">  
@@ -17,7 +17,7 @@
 <a href="https://xmake.io/#/" target="_blank"><img style="margin: 50px" src="xmake.svg" alt="Xmake" height="50" /></a>
 </div>
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
   
 ### Backend :
 <div align="center"> 
@@ -35,11 +35,16 @@
 
 
 # My statistics :
+
+<div align="center">
+
 [![Throows's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Throows&langs_count=8&layout=compact&theme=gruvbox&show_icons=true)]()
 
 [![Throows's GitHub stats](https://github-readme-stats.vercel.app/api?username=Throows&theme=gruvbox&show_icons=true)]()
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=throows)](https://git.io/streak-stats)
+
+</div>
 
 # Connect with me !
 
@@ -60,11 +65,13 @@
 
 # What's my music style :
 
+<div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=romain1.berthoule&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 -------------------
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Throows&&style=flat-square" align="center" />
-</div>  
+![](https://hit.yhype.me/github/profile?user_id=54288829)
 Credits:
 
 [Throows](https://github.com/Throows)
+
+</div>
