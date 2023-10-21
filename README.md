@@ -21,7 +21,7 @@
 </td>
 <td valign="top" width="50%">
   
-### Backend :
+### Web Backend :
 <div align="center"> 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 <a href="https://redis.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
@@ -60,8 +60,9 @@
 <a href="https://instagram.com/romain.brtl" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="Romain#8405" target="_blank">
-<img src=https://img.shields.io/badge/discord-Discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://discordapp.com" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/throows-orange?style=for-the-badge&logo=Discord&label=Discord">
+
 </a>
 </div>  
 
