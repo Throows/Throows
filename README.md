@@ -1,6 +1,6 @@
 # Hi there, I'm Throows <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&vCenter=true&width=500&lines=Electronic+And+Embedded+Systems+Lover;C%2B%2B+And+Java+Developer;Working+On+Coffee+Machine+Project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&vCenter=true&width=500&lines=Electronic+and+embedded+systems+lover;Working+on+UWB+location+system)](https://git.io/typing-svg)
 
 # My skills :
 
@@ -15,6 +15,8 @@
 <a href="https://cplusplus.com/" target="_blank"><img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
 <a href="https://cmake.org/" target="_blank"><img style="margin: 50px" src="cmake.svg" alt="Cmake" height="50" /></a>
 <a href="https://xmake.io/#/" target="_blank"><img style="margin: 50px" src="xmake.svg" alt="Xmake" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 50px" src="freertos.svg" alt="FreeRTOS" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 50px" src="nordicsemi.svg" alt="NordicSemi" height="50" /></a>
 </div>
 </td>
 <td valign="top" width="50%">
@@ -63,15 +65,20 @@
 </a>
 </div>  
 
-# What's my music style :
+# My Projects :
+
+### - Mini industry 4.0
+
+    The goal is to recreate Industrial Process in miniature form factor. Including the latest tech, this project will push the limits of industry. Box tracking, AI recognizing, new conveyor method.
+
+### - Educative Electronics Tools 
+
+    Breadboard should be outdated, an other way of prototyping need to come out... even more with SMD packages. That's why I am building a new solution.  
+
+and so on ...
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=romain1.berthoule&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
--------------------
-![](https://hit.yhype.me/github/profile?user_id=54288829)
 Credits:
 
 [Throows](https://github.com/Throows)
-
 </div>
