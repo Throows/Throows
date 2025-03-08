@@ -78,6 +78,9 @@
 
 and so on ...
 
+### - Side note 
+All repositories have been removed from github - My IA issues with non-copyrighted generative code - Source code will always be available on my website
+
 <div align="center">
 Credits:
 
