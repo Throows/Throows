@@ -55,7 +55,7 @@
 
 ## Important 
 Regarding all the news of github being moved to AI team and the copyright issue of all AI's, I decided to move my projects to my self-hosted Gitlab instance.\
-My Source code will always be available on my [Website](https://romain.berthoule.fr) or in my [gitlab](https://gitlab.romain.berthoule.fr)
+My Source code will always be available on my [Website](https://romain.berthoule.fr) or in my [gitlab](https://gitlab.romain.berthoule.fr/explore)
 
 <div align="center">
 Credits:
