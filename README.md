@@ -35,19 +35,6 @@
 
 <br/>  
 
-
-# My statistics :
-
-<div align="center">
-
-[![Throows's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Throows&langs_count=8&layout=compact&theme=gruvbox&show_icons=true)]()
-
-[![Throows's GitHub stats](https://github-readme-stats.vercel.app/api?username=Throows&theme=gruvbox&show_icons=true)]()
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=throows)](https://git.io/streak-stats)
-
-</div>
-
 # Connect with me !
 
 <div align="center">
@@ -66,20 +53,9 @@
 </a>
 </div>  
 
-# My Projects :
-
-### - Mini industry 4.0
-
-    The goal is to recreate Industrial Process in miniature form factor. Including the latest tech, this project will push the limits of industry. Box tracking, AI recognizing, new conveyor method.
-
-### - Educative Electronics Tools 
-
-    Breadboard should be outdated, an other way of prototyping need to come out... even more with SMD packages. That's why I am building a new solution.  
-
-and so on ...
-
-### - Side note 
-All repositories have been removed from github - My IA issues with non-copyrighted generative code - Source code will always be available on my website
+## Important 
+Regarding all the news of github being moved to AI team and the copyright issue of all AI's, I decided to move my projects to my self-hosted Gitlab instance.\
+My Source code will always be available on my [Website](https://romain.berthoule.fr) or in my [gitlab](https://gitlab.romain.berthoule.fr)
 
 <div align="center">
 Credits:
